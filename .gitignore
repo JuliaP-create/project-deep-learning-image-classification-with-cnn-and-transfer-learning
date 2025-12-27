@@ -1,0 +1,6 @@
+*.weights.h5
+history_*.pkl
+metrics_*.pkl
+.ipynb_checkpoints/
+efficientnetv2_cifar10_final.h5
+model_reports/*

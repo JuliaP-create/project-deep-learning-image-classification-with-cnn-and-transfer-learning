@@ -1,0 +1,23 @@
+# CIFAR-10 Image Classification Project
+# Comparing CNN Architectures: 5-layer CNN, VGG-10, ResNet-20 and EfficientNetV2B0
+# Authors: Julia, Helena, Maryem
+# Date: December 2025
+
+# Deep Learning Framework
+tensorflow==2.19.0
+
+# Data Processing
+numpy==2.0.2
+pandas==2.2.2
+
+# Visualization
+matplotlib==3.10.0
+seaborn==0.13.2
+
+# Machine Learning Utilities
+scikit-learn==1.6.1
+
+# Installation:
+# pip install -r requirements.txt
+
+# Note: Tested on Google Colab with Python 3.10+
